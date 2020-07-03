@@ -49,7 +49,7 @@ Country: <form:select path="country">
 		Windows <form:checkbox path="operatingSystems" value="Windows"/>
 		Mac <form:checkbox path="operatingSystems" value="Mac"/>
 		
-		<form:checkbox path=""/>
+		
 
 
 
